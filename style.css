@@ -1,0 +1,35 @@
+body {
+    display: flex;
+}
+
+body {
+    flex-direction: column;
+}
+
+/* ------------- */
+/* style header */
+/* ------------- */
+.nav {
+    padding: 10px 100px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+}
+
+.nav > ul li {
+    border: 1px solid red;
+}
+
+.nav-right {
+    display: flex;
+    gap: 30px;
+}
+
+.nav img {
+    width: 50px;
+}
+
+.nav li {
+    display: flex;
+    align-items: center;
+}

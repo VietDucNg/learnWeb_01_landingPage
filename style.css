@@ -57,3 +57,28 @@ div {
     min-width: 350px;
     width: 350px;
 }
+
+/* ------------- */
+/* style block 2 */
+/* ------------- */
+.block2 {
+    padding: 0 100px;
+}
+
+.cards {
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+
+.card {
+    width: 150px;
+}
+
+.block2 p {
+    text-align: center;
+}
+
+.block2-title {
+    margin: 20px 0;
+}

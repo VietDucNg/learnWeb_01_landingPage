@@ -1,0 +1,58 @@
+.header, .footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.title {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.subtitle {
+    font-size: 18px;
+}
+
+.callToAction, .signup-button1, .signup-button2{
+    background-color: #3882F6;
+    color: white;
+}
+
+.signup-button1, .signup-button2 {
+    cursor: pointer;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.signup-button1 {
+    margin-top: 5px;
+}
+
+.signup-button2 {
+    border: 1px solid white;
+    height: min-content;
+    align-self: center;
+}
+
+.block2-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.block3 {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+}
+
+img, .callToAction {
+    border-radius: 10px;
+}
+
+.card {
+    cursor: pointer;
+}

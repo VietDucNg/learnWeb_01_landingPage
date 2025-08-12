@@ -11,15 +11,11 @@
     flex-wrap: wrap;
 }
 
-div {
-    border: 1px solid red;
-}
-
 /* ------------- */
 /* style header */
 /* ------------- */
 .header {
-    padding: 10px 100px;
+    padding: 10px 300px;
     flex-direction: column;
 }
 
@@ -60,17 +56,17 @@ div {
 /* style block 2 */
 /* ------------- */
 .block2 {
-    padding: 0 100px;
+    padding: 0 300px;
 }
 
 .cards {
     justify-content: center;
     gap: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 .card {
-    width: 150px;
+    width: 200px;
 }
 
 .block2 p {
@@ -78,14 +74,14 @@ div {
 }
 
 .block2-title {
-    margin: 20px 0;
+    margin: 50px 0;
 }
 
 /* ------------- */
 /* style block 3 */
 /* ------------- */
 .block3 {
-    padding: 50px 100px;
+    padding: 100px 300px;
     justify-content: center;
 }
 
@@ -97,7 +93,7 @@ div {
 /* style block 4 */
 /* ------------- */
 .block4 {
-    padding: 50px 100px;
+    padding: 50px 300px;
     justify-content: center;
 }
 

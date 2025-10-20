@@ -41,6 +41,7 @@ body {
 .header-down {
     justify-content: space-between;
     margin: 3rem 0;
+    gap: 1rem;
 }
 
 .header-down-left {

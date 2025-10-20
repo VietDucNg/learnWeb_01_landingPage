@@ -1,16 +1,28 @@
+@media (max-width: 1024px) {
+  html {
+    font-size: 15px; /* Tablet */
+  }
+}
+
+@media (max-width: 768px) {
+  html {
+    font-size: 14px; /* Mobile */
+  }
+}
+
 .header, .footer {
     background-color: #1F2937;
     color: #E5E7EB;
 }
 
 .title {
-    font-size: 48px;
+    font-size: 3rem;
     color: #F9FAF8;
     font-weight: 900;
 }
 
 .subtitle {
-    font-size: 18px;
+    font-size: 1rem;
 }
 
 .callToAction, .signup-button1, .signup-button2{
@@ -20,12 +32,12 @@
 
 .signup-button1, .signup-button2 {
     cursor: pointer;
-    padding: 5px 15px;
-    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
 }
 
 .signup-button1 {
-    margin-top: 5px;
+    margin-top: 0.5rem;
 }
 
 .signup-button2 {
@@ -35,7 +47,7 @@
 }
 
 .block2-title {
-    font-size: 36px;
+    font-size: 2.5rem;
     color: #1F2937;
     font-weight: 900;
 }
@@ -45,12 +57,12 @@
 }
 
 .quote {
-    font-size: 36px;
+    font-size: 2.5rem;
     color: #1F2937;
 }
 
 img, .callToAction {
-    border-radius: 10px;
+    border-radius: 1rem;
 }
 
 .card {
